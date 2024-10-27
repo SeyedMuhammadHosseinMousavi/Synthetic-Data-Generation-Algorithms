@@ -6,9 +6,6 @@ This repository demonstrates various synthetic data generation techniques using 
 
 # Brainwave EEG Dataset
 This project utilizes small part of the [Brainwave EEG Dataset](https://ieee-dataport.org/documents/brainwave-eeg-dataset) available on IEEE DataPort. This dataset contains EEG signals associated with various emotional states, providing data for emotion recognition tasks.
-
-## Dataset Details
-- **Source**: [IEEE DataPort - Brainwave EEG Dataset](https://ieee-dataport.org/documents/brainwave-eeg-dataset)
 - **Data Type**: EEG signals collected from participants across different emotional states.
 
 ## Usage
