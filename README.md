@@ -117,28 +117,8 @@ The top features from SHAP analysis are compared across original and synthetic d
 | LSTM                | 1500                       | 81%                         | -                            | -                           |
 | Copula              | 1500                       | 80%                         | -                            | -                           |
 
-**Note**: Values in the table are placeholders; update them with actual evaluation metrics after running experiments.
+![VAE Synthetic_SHAP_Summary_Plot](https://github.com/user-attachments/assets/90d2c6ca-c162-4aed-bf12-216fb363bdb4)
+![VAE Original_SHAP_Summary_Plot](https://github.com/user-attachments/assets/50824f07-24e4-45d8-9949-b0be5cec3c9b)
 
----
 
-## Files
 
-- **`vae_synthetic_data.py`**: Script for VAE-based synthetic data generation and evaluation.
-- **`gan_synthetic_data.py`**: Script for GAN-based synthetic data generation and evaluation.
-- **`diffusion_synthetic_data.py`**: Script for diffusion model synthetic data generation and evaluation.
-- **`lstm_synthetic_data.py`**: Script for LSTM-based synthetic data generation and evaluation.
-- **`copula_synthetic_data.py`**: Script for Copula-based synthetic data generation and evaluation.
-- **`evaluation.py`**: Script for running SHAP, MSE, and classification evaluations on generated datasets.
-
----
-
-## Getting Started
-
-### Requirements
-- Python 3.8+
-- Packages: `numpy`, `pandas`, `sklearn`, `tensorflow`, `xgboost`, `shap`, `copulas`, `matplotlib`
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
