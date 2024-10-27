@@ -107,7 +107,7 @@ The top features from SHAP analysis are compared across original and synthetic d
 
 ---
 
-## Results
+## Results (Baseline ove 5 Runs is 93% (+/- 1%)
 
 | Model               | Synthetic Samples Generated | SHAP Feature Similarity (%) | XGBoost Accuracy (Synthetic) | XGBoost Accuracy (Combined) |
 |---------------------|----------------------------|-----------------------------|------------------------------|-----------------------------|
