@@ -118,9 +118,10 @@ The top features from SHAP analysis are compared across original and synthetic d
 | Copula              | 1500                       | 80%                         | -                            | -                           |
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90d2c6ca-c162-4aed-bf12-216fb363bdb4" alt="VAE Synthetic SHAP Summary Plot" width="50%">
+  <img src="https://github.com/user-attachments/assets/90d2c6ca-c162-4aed-bf12-216fb363bdb4" alt="VAE Synthetic SHAP Summary Plot" width="60%">
 </p>
-![VAE Original_SHAP_Summary_Plot](https://github.com/user-attachments/assets/50824f07-24e4-45d8-9949-b0be5cec3c9b)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50824f07-24e4-45d8-9949-b0be5cec3c9b" alt="VAE Original SHAP Summary Plot" width="60%">
+</p>
 
 
