@@ -111,10 +111,10 @@ The top features from SHAP analysis are compared across original and synthetic d
 
 | Model               | Synthetic Samples Generated | SHAP Feature Similarity (%) | XGBoost Accuracy (Synthetic) | XGBoost Accuracy (Combined) |
 |---------------------|----------------------------|-----------------------------|------------------------------|-----------------------------|
-| VAE                 | 2000                       | 80%                         | -                            | -                           |
-| GAN                 | 2000                       | 80%                         | -                            | -                           |
+| VAE                 | 2000                       | 80%                         | 50.13%                            | 69.56%                           |
+| GAN                 | 2000                       | 85%                         | -                            | -                           |
 | Diffusion Model     | 500 per class              | 80%                         | -                            | -                           |
-| LSTM                | 1500                       | 80%                         | -                            | -                           |
+| LSTM                | 1500                       | 81%                         | -                            | -                           |
 | Copula              | 1500                       | 80%                         | -                            | -                           |
 
 **Note**: Values in the table are placeholders; update them with actual evaluation metrics after running experiments.
