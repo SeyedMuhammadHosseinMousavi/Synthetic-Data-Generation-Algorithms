@@ -1,6 +1,7 @@
 # Synthetic-Data-Generation-Algorithms
 Synthetic Data Generation Algorithms (VAE-GAN-Diffusion Model-LSTM-Copula)
-
+#
+October 2024 / Lugano / Switzerland
 # Synthetic Data Generation for Physiological Emotion Recognition EEG Data
 This repository demonstrates various synthetic data generation techniques using **Variational Autoencoders (VAE)**, **Generative Adversarial Networks (GAN)**, **Diffusion Model**, **LSTM-based model**, and **Copula model**. The synthetic data generation is performed on a dataset of **Physiological Emotion Recognition EEG Data** involving **4 different emotions**.
 
